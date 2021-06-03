@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of both Houses of Parliament to His Majestie concerning his intended going to Ireland whereunto is added six reasons or motive to disswade His Majesty from going thither : April 22.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38059</idno><idno type="EEBO-CITATION">11204389</idno>
+  <idno type="VID">46736</idno>
+  <idno type="EEBO-PROQUEST">2240891026</idno>
+  
+            <idno type="STC">Wing E2168</idno>
+            <idno type="STC">ESTC R29765</idno>
+            <idno type="OCLC">11204389</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38059)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of both Houses of Parliament to His Majestie concerning his intended going to Ireland whereunto is added six reasons or motive to disswade His Majesty from going thither : April 22.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Hunscott,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46736:1"/>
+            <pb facs="tcp:46736:1"/>
+            <p>THE PETITION OF BOTH HOUSES OF PARLIAMENT TO His Majestie, Concerning His intended going to IRELAND.</p>
+            <p>Whereunto is added Six Reasons, or Motives, to disswade His Majesty from going thither.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>April 22.</date>
+                           </dateline>
+                        </opener>
+                        <p>It is this day Ordered, that this be forthwith Published.</p>
+                        <closer>
+                           <signed>Hen. Elsinge, Cler. Com. D. Parl.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Pr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted for <hi>Joseph Hunscott.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46736:2"/>
+            <pb n="3" facs="tcp:46736:2"/>
+            <opener>
+               <salute>May it please Your Majesty:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majesties most loyall and faithfull Subjects, the Lords and Commons in Parliament, have duely considered the Message re<g ref="char:EOLhyphen"/>ceived from your Majesty con<g ref="char:EOLhyphen"/>cerning your purpose of going into <hi>Ireland</hi> in your own Person, to prosecute the War there with the bodies of your English subjects, leavied, transport<g ref="char:EOLhyphen"/>ed, and maintained at their charge; which you are pleased to propound to us, not as a matter wherein your Majesty desires the advice of your Parliament, but as already firmly resolved on, and forthwith to be put in execution, by granting out Commissions for the leavying of 2000 Foot, and 200 Horse for a Guard for your Person when you shall come into that Kingdom; Wherein we cannot choose but with all reverence and humility to your Majesty, observe, That you have declined your great Councell, the Parliament, and varyed from the usuall course of your Royall Predecessors, that a businesse of so great importance, concerning the peace and safety of all your Subjects, and wherein they have a speciall inte<g ref="char:EOLhyphen"/>rest by your Majesties promises, and by those great sums which they have disbursed, and for which they
+<pb n="4" facs="tcp:46736:3"/> stand engaged, should be concluded and undertaken without their advice: Whereupon we hold it our dury to declare, That if at this time your Majesty shall go into <hi>Ireland,</hi> you will very much endanger the safety of your Royall Person and Kingdome, and of all other States professing the Protestant Religion in Christendom, and make way to that cruell and bloudy designe of the Papists every where, to root out and destroy the Reformed Religion, as the Irish Papists have in a great part already effected in that King<g ref="char:EOLhyphen"/>dom, and in all likely-hood would quickly be at<g ref="char:EOLhyphen"/>tempted in other plac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, if the consideration of the strength and union of the two Nations of <hi>England</hi> and <hi>Scotland</hi> did not much hinder and discourage the execution of any such designe: And that we may manifest unto your Majesty the danger and misery which such a journey and enterprise would procure, we present to your Majesty the Reasons of this our humble Opinion and Advice.</p>
+            <list>
+               <item>I. Your Royall Person will be subject, not onely to the casualty of War, but to secret practices and conspiracies, especially your Majesty continuing your profession to maintain the Protestant Religion in that Kingdome, which the Papists are generally bound by their vow to extirpate.</item>
+               <item>II. It will exceedingly encourage the Rebells, who do generally professe and declare, That your Majesty doth favour and allow their proceedings, and this Insurrection was undertaken by the Warrant of your Commission; and it will make good th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir ex<g ref="char:EOLhyphen"/>pectation
+<pb n="5" facs="tcp:46736:3"/> of great advantage by your Majesties Pre<g ref="char:EOLhyphen"/>sence at this time of so much distr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ction in this King<g ref="char:EOLhyphen"/>dome, whereby they may hope we shall be disabled to supply the War there, especially there appearing lesse necessity of your Majesties Journey at this time, by reason of the manifold successes which God hath given against them.</item>
+               <item>III. It will much hinder and impair the means whereby this War is to be supported, <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd encrease the charge of it, and in both these respects, make it more insupportable to your Subjects; And this we can confidently affirm, because many of the Adven<g ref="char:EOLhyphen"/>turers, who have already subscribed, do upon the knowledge of your Majesties intentions, declare their resolutions not to pay in their money, and others very willing to have subscribed, do now professe the contrary.</item>
+               <item>IV. Your Majesties absence must necessarily very much interrupt the proceedings of Parliament, and deprive your Subjects of the benefit of those further Acts of Grace, and Justice, which we shall humbly expect from your Majesty, for the establishing of perfect Union, and mutuall confidence b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>twixt your Majesty, and your People, and procuring and con<g ref="char:EOLhyphen"/>firming the prosperity and happinesse of both.</item>
+               <item>V. It will exceedingly encrease the jealousies and fears of your People, and render the doubts of your Subjects, more probable of some force intended by some evill Councels neer your Majestie, in opposition
+<pb n="6" facs="tcp:46736:4"/> to the Parliament, and favour of the malignant party of the Kingdom.</item>
+               <item>VI. It will bereave your Parliament of that ad<g ref="char:EOLhyphen"/>vantage, whereby they were induced to undertake this War upon your Majesties promise, that it should be mannaged by their advice, which cannot be done if your Majesty contrary to their Councell, shall undertake to Order and Govern it in your own Person.</item>
+            </list>
+            <p>Upon which, and divers others Reasons, we have resolved, by the full and concurring agreement of both Houses, That we cannot with the duty which belongs to us, consent to any levies, or raising of Souldiers to be made by your Majesty, for this your intended expedition into <hi>Ireland,</hi> or to the payment of any Army, or Souldiers there; but such as shall be employed and governed according to our advice and direction; and that if such Levies shall be made by any such Commission of your Majesty, not agreed to by both Houses of Parliament, we shall be forced to interpret the same to be raised to the terror of your People, and disturbance of the publike Peace, and hold our selves bound by the Laws of the Kingdom, to apply the authority of Parliament to suppresse the same.</p>
+            <p>And we do further, most humbly declare, That if your Majesty shall by ill Councell be perswaded to go, contrary to this advice of your Parliament (which we hope your Majesty will not:) We do not in that case hold our Selves bound to submit to any
+<pb n="7" facs="tcp:46736:4"/> Commissioners which your Majestie shall chuse, but do resolve to preserve and govern the Kingdom by the Councell and advice of your Parliament, for your Majesty, and your Posterity, according to our Allegiance, and the Law of the Land.</p>
+            <p>Wherefore we humbly pray, and advise your Ma<g ref="char:EOLhyphen"/>jesty to desist from this your intended passage into <hi>Ireland,</hi> and of all preparation of Men and Arms tending thereunto and to leave the mannaging of that Warre to your Majesties Parliament, according to your Majesties promise, made unto us, and your Roy<g ref="char:EOLhyphen"/>all Commission, granted under your great Seal of <hi>England,</hi> by advice of both Houses; In prosecution whereof, by Gods blessing, we have made a prospe<g ref="char:EOLhyphen"/>rous entrance by many defeats of the Rebels; where<g ref="char:EOLhyphen"/>by they are much weakned, and disheartned, and have no probable means of subsistance if our pro<g ref="char:EOLhyphen"/>ceedings shall not be interrupted by this interpositi<g ref="char:EOLhyphen"/>on of your Majesties journey, but that we may hope upon good grounds, that within a short time, without hazard of your Majesties Person, and so much dan<g ref="char:EOLhyphen"/>gerous confusion to your Kingdoms, which must needs ensue, if you should proceed in this Resolution, we shall be enabled fully to Vindicate your Majesties Right and Authority in that Kingdom, and punish those horrible and outragious cruelties which have been committed in the murthering, and spoiling so many of your Subjects, and bring that Realm to such a condition, as may be much for the advantage of your Majesty and this Crown, the honour of your Government and Contentment of your People; for the better and more speedy effecting whereof, we do
+<pb n="8" facs="tcp:46736:5"/> again renew our humble desires of your return to your Parliament; And that you will please to reject all Councels, and Apprehensions which may any way derogate from the faithfulnesse, and allegiance, which in truth, and sincerity, we have alwayes borne, and professed to your Majesty, and shall ever make good to the uttermost, with our lives and fortunes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46736:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
